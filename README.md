@@ -1,5 +1,3 @@
-# About me
-Hello, I am ASPLAX.
+Hello, I am ASPLAX.  
+Contact: asplax@protonmail.com  
 Languages: EN-GB
-
-Origin: Figure it out.
